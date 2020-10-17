@@ -1,8 +1,9 @@
+
 def nyc_pigeon_organizer(data)
 final_hash = {}
  data.each do |attribute_name, attributes|
-   attributes.each do |
-     
+   attributes.each do |attribute_value, pigeon_names |
+     pigeon_names.each 
    end
  end 
 end
