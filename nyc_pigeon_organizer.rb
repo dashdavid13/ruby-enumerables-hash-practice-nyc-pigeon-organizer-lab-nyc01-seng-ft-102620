@@ -5,11 +5,13 @@ final_hash = {}
    attributes.each do |attribute_value, pigeon_names |
      pigeon_names.each do |name|
        final_hash[name]
-       final_hash << [attribute_value]
+       final_hash[attribute_value]
+       
        
    end
  end 
 end
 end 
+ 
  
  
