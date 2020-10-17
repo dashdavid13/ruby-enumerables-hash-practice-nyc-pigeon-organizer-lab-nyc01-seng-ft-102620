@@ -1,3 +1,9 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
-end
+  data_types => {
+    
+  },
+  attributes_of_return_value => {
+    
+  }
+ 
+ end
